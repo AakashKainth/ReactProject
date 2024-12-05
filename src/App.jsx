@@ -2,7 +2,8 @@ import Hello from "./components/Hello";
 function App() {
   return (
     <div className="App">
-      <Hello />
+      <Hello name="Rob" message = "Kaise ho!"/>
+      
     </div>
   );
 }
