@@ -1,4 +1,4 @@
-const name = "Timmy";
+const name = "Kyra";
 
 function displayMessage(){
     return "Wow!";
