@@ -2,7 +2,7 @@ function Hello(props) {
   props.name = "Jake";
   return (
     <h1>
-      {props.message} {props.name} {props.emoji}
+      {props.message} {props.name} 
     </h1>
   );
 }
