@@ -1,5 +1,5 @@
 export default function Fruits() {
-  const fruits = ["Apple", "Mango", "Banana", "Orange", "Pineapple"];
+  const fruits = ["Apple", "Mango", "Banana", "Orange", "Pineapple","Kiwi"];
   return (
     <div>
       <ul>
